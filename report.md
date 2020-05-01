@@ -20,7 +20,7 @@
 
 В процессе тестирования использовались следующие артефакты*:
 * Руководство по установке IntelliJ IDEA https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md
-* Список номеров кредитных карт 
+* Список номеров кредитных карт https://github.com/pava-14/java1.2/blob/master/cc_list.txt
 
 
 В качестве тестовых данных использовались номера кредитных карт:
